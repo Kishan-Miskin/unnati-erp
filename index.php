@@ -1,0 +1,9 @@
+<?php
+require_once __DIR__ . '/config/config.php';
+require_once __DIR__ . '/includes/auth.php';
+if (isLoggedIn()) {
+    header('Location: ' . APP_URL . '/' . (isAdmin() ? 'admin' : 'employee') . '/dashboard.php');
+} else {
+    header('Location: ' . APP_URL . '/login.php');
+}
+exit;

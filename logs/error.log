@@ -1,0 +1,213 @@
+[11-Nov-2026 02:05:45 Asia/Kolkata] Activity log error: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`mini_erp`.`activity_logs`, CONSTRAINT `activity_logs_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`) ON DELETE SET NULL)
+[11-Nov-2026 02:05:50 Asia/Kolkata] Activity log error: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`mini_erp`.`activity_logs`, CONSTRAINT `activity_logs_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`) ON DELETE SET NULL)
+[11-Nov-2026 02:06:09 Asia/Kolkata] Activity log error: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`mini_erp`.`activity_logs`, CONSTRAINT `activity_logs_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`) ON DELETE SET NULL)
+[11-Nov-2026 02:06:27 Asia/Kolkata] Activity log error: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`mini_erp`.`activity_logs`, CONSTRAINT `activity_logs_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`) ON DELETE SET NULL)
+[11-Nov-2026 02:07:56 Asia/Kolkata] Activity log error: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`mini_erp`.`activity_logs`, CONSTRAINT `activity_logs_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`) ON DELETE SET NULL)
+[11-Nov-2026 02:07:59 Asia/Kolkata] Activity log error: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`mini_erp`.`activity_logs`, CONSTRAINT `activity_logs_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`) ON DELETE SET NULL)
+[11-Nov-2026 02:10:20 Asia/Kolkata] Activity log error: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`mini_erp`.`activity_logs`, CONSTRAINT `activity_logs_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`) ON DELETE SET NULL)
+[11-Nov-2026 02:10:24 Asia/Kolkata] Activity log error: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`mini_erp`.`activity_logs`, CONSTRAINT `activity_logs_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`) ON DELETE SET NULL)
+[11-Nov-2026 02:12:38 Asia/Kolkata] Activity log error: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`mini_erp`.`activity_logs`, CONSTRAINT `activity_logs_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`) ON DELETE SET NULL)
+[11-Nov-2026 02:13:35 Asia/Kolkata] Activity log error: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`mini_erp`.`activity_logs`, CONSTRAINT `activity_logs_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`) ON DELETE SET NULL)
+[11-Nov-2026 02:14:10 Asia/Kolkata] Activity log error: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`mini_erp`.`activity_logs`, CONSTRAINT `activity_logs_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`) ON DELETE SET NULL)
+[11-Nov-2026 02:16:36 Asia/Kolkata] PHP Warning:  Array to string conversion in H:\xampp\htdocs\unnatti\admin\dashboard.php on line 170
+[11-Nov-2026 02:16:49 Asia/Kolkata] PHP Warning:  Array to string conversion in H:\xampp\htdocs\unnatti\admin\dashboard.php on line 170
+[11-Nov-2026 02:17:22 Asia/Kolkata] PHP Warning:  Array to string conversion in H:\xampp\htdocs\unnatti\admin\dashboard.php on line 170
+[11-Nov-2026 02:17:26 Asia/Kolkata] PHP Warning:  Array to string conversion in H:\xampp\htdocs\unnatti\admin\dashboard.php on line 170
+[11-Nov-2026 02:17:28 Asia/Kolkata] PHP Warning:  Array to string conversion in H:\xampp\htdocs\unnatti\admin\dashboard.php on line 170
+[11-Nov-2026 02:42:23 Asia/Kolkata] PHP Warning:  Array to string conversion in H:\xampp\htdocs\unnatti\admin\dashboard.php on line 170
+[11-Nov-2026 02:43:30 Asia/Kolkata] PHP Warning:  Array to string conversion in H:\xampp\htdocs\unnatti\admin\dashboard.php on line 170
+[11-Nov-2026 02:45:31 Asia/Kolkata] PHP Warning:  Array to string conversion in H:\xampp\htdocs\unnatti\employee\dashboard.php on line 65
+[11-Nov-2026 02:45:31 Asia/Kolkata] PHP Warning:  Array to string conversion in H:\xampp\htdocs\unnatti\employee\dashboard.php on line 67
+[11-Nov-2026 02:45:36 Asia/Kolkata] PHP Warning:  Array to string conversion in H:\xampp\htdocs\unnatti\employee\dashboard.php on line 65
+[11-Nov-2026 02:45:36 Asia/Kolkata] PHP Warning:  Array to string conversion in H:\xampp\htdocs\unnatti\employee\dashboard.php on line 67
+[11-Nov-2026 02:45:38 Asia/Kolkata] PHP Warning:  include(H:\xampp\htdocs\unnatti\admin/includes/header.php): Failed to open stream: No such file or directory in H:\xampp\htdocs\unnatti\admin\billing\create.php on line 22
+[11-Nov-2026 02:45:38 Asia/Kolkata] PHP Warning:  include(): Failed opening 'H:\xampp\htdocs\unnatti\admin/includes/header.php' for inclusion (include_path='\xampp\php\PEAR') in H:\xampp\htdocs\unnatti\admin\billing\create.php on line 22
+[11-Nov-2026 02:45:38 Asia/Kolkata] PHP Warning:  include(H:\xampp\htdocs\unnatti\admin/includes/footer.php): Failed to open stream: No such file or directory in H:\xampp\htdocs\unnatti\admin\billing\create.php on line 261
+[11-Nov-2026 02:45:38 Asia/Kolkata] PHP Warning:  include(): Failed opening 'H:\xampp\htdocs\unnatti\admin/includes/footer.php' for inclusion (include_path='\xampp\php\PEAR') in H:\xampp\htdocs\unnatti\admin\billing\create.php on line 261
+[11-Nov-2026 02:45:43 Asia/Kolkata] PHP Warning:  Array to string conversion in H:\xampp\htdocs\unnatti\employee\dashboard.php on line 65
+[11-Nov-2026 02:45:43 Asia/Kolkata] PHP Warning:  Array to string conversion in H:\xampp\htdocs\unnatti\employee\dashboard.php on line 67
+[11-Nov-2026 02:45:44 Asia/Kolkata] PHP Warning:  Array to string conversion in H:\xampp\htdocs\unnatti\employee\dashboard.php on line 65
+[11-Nov-2026 02:45:44 Asia/Kolkata] PHP Warning:  Array to string conversion in H:\xampp\htdocs\unnatti\employee\dashboard.php on line 67
+[11-Nov-2026 02:45:45 Asia/Kolkata] PHP Warning:  Array to string conversion in H:\xampp\htdocs\unnatti\employee\dashboard.php on line 65
+[11-Nov-2026 02:45:45 Asia/Kolkata] PHP Warning:  Array to string conversion in H:\xampp\htdocs\unnatti\employee\dashboard.php on line 67
+[11-Nov-2026 02:45:47 Asia/Kolkata] PHP Warning:  include(H:\xampp\htdocs\unnatti\admin/includes/header.php): Failed to open stream: No such file or directory in H:\xampp\htdocs\unnatti\admin\billing\create.php on line 22
+[11-Nov-2026 02:45:47 Asia/Kolkata] PHP Warning:  include(): Failed opening 'H:\xampp\htdocs\unnatti\admin/includes/header.php' for inclusion (include_path='\xampp\php\PEAR') in H:\xampp\htdocs\unnatti\admin\billing\create.php on line 22
+[11-Nov-2026 02:45:47 Asia/Kolkata] PHP Warning:  include(H:\xampp\htdocs\unnatti\admin/includes/footer.php): Failed to open stream: No such file or directory in H:\xampp\htdocs\unnatti\admin\billing\create.php on line 261
+[11-Nov-2026 02:45:47 Asia/Kolkata] PHP Warning:  include(): Failed opening 'H:\xampp\htdocs\unnatti\admin/includes/footer.php' for inclusion (include_path='\xampp\php\PEAR') in H:\xampp\htdocs\unnatti\admin\billing\create.php on line 261
+[11-Nov-2026 02:45:51 Asia/Kolkata] PHP Warning:  include(H:\xampp\htdocs\unnatti\admin/includes/header.php): Failed to open stream: No such file or directory in H:\xampp\htdocs\unnatti\admin\billing\create.php on line 22
+[11-Nov-2026 02:45:51 Asia/Kolkata] PHP Warning:  include(): Failed opening 'H:\xampp\htdocs\unnatti\admin/includes/header.php' for inclusion (include_path='\xampp\php\PEAR') in H:\xampp\htdocs\unnatti\admin\billing\create.php on line 22
+[11-Nov-2026 02:45:51 Asia/Kolkata] PHP Warning:  include(H:\xampp\htdocs\unnatti\admin/includes/footer.php): Failed to open stream: No such file or directory in H:\xampp\htdocs\unnatti\admin\billing\create.php on line 261
+[11-Nov-2026 02:45:51 Asia/Kolkata] PHP Warning:  include(): Failed opening 'H:\xampp\htdocs\unnatti\admin/includes/footer.php' for inclusion (include_path='\xampp\php\PEAR') in H:\xampp\htdocs\unnatti\admin\billing\create.php on line 261
+[11-Nov-2026 02:46:02 Asia/Kolkata] PHP Warning:  Array to string conversion in H:\xampp\htdocs\unnatti\employee\dashboard.php on line 65
+[11-Nov-2026 02:46:02 Asia/Kolkata] PHP Warning:  Array to string conversion in H:\xampp\htdocs\unnatti\employee\dashboard.php on line 67
+[11-Nov-2026 02:46:44 Asia/Kolkata] PHP Warning:  include(H:\xampp\htdocs\unnatti\admin/includes/header.php): Failed to open stream: No such file or directory in H:\xampp\htdocs\unnatti\admin\billing\create.php on line 22
+[11-Nov-2026 02:46:44 Asia/Kolkata] PHP Warning:  include(): Failed opening 'H:\xampp\htdocs\unnatti\admin/includes/header.php' for inclusion (include_path='\xampp\php\PEAR') in H:\xampp\htdocs\unnatti\admin\billing\create.php on line 22
+[11-Nov-2026 02:46:44 Asia/Kolkata] PHP Warning:  include(H:\xampp\htdocs\unnatti\admin/includes/footer.php): Failed to open stream: No such file or directory in H:\xampp\htdocs\unnatti\admin\billing\create.php on line 261
+[11-Nov-2026 02:46:44 Asia/Kolkata] PHP Warning:  include(): Failed opening 'H:\xampp\htdocs\unnatti\admin/includes/footer.php' for inclusion (include_path='\xampp\php\PEAR') in H:\xampp\htdocs\unnatti\admin\billing\create.php on line 261
+[11-Nov-2026 02:58:12 Asia/Kolkata] PHP Warning:  Array to string conversion in H:\xampp\htdocs\unnatti\employee\dashboard.php on line 65
+[11-Nov-2026 02:58:12 Asia/Kolkata] PHP Warning:  Array to string conversion in H:\xampp\htdocs\unnatti\employee\dashboard.php on line 67
+[11-Nov-2026 03:00:18 Asia/Kolkata] PHP Warning:  Array to string conversion in H:\xampp\htdocs\unnatti\employee\dashboard.php on line 65
+[11-Nov-2026 03:00:18 Asia/Kolkata] PHP Warning:  Array to string conversion in H:\xampp\htdocs\unnatti\employee\dashboard.php on line 67
+[11-Nov-2026 03:00:23 Asia/Kolkata] PHP Warning:  Array to string conversion in H:\xampp\htdocs\unnatti\employee\dashboard.php on line 65
+[11-Nov-2026 03:00:23 Asia/Kolkata] PHP Warning:  Array to string conversion in H:\xampp\htdocs\unnatti\employee\dashboard.php on line 67
+[11-Nov-2026 12:57:30 Asia/Kolkata] PHP Warning:  Array to string conversion in H:\xampp\htdocs\unnatti\admin\dashboard.php on line 170
+[11-Nov-2026 12:58:42 Asia/Kolkata] PHP Warning:  Array to string conversion in H:\xampp\htdocs\unnatti\employee\dashboard.php on line 65
+[11-Nov-2026 12:58:42 Asia/Kolkata] PHP Warning:  Array to string conversion in H:\xampp\htdocs\unnatti\employee\dashboard.php on line 67
+[11-Nov-2026 13:04:12 Asia/Kolkata] PHP Warning:  Array to string conversion in H:\xampp\htdocs\unnatti\employee\dashboard.php on line 65
+[11-Nov-2026 13:04:12 Asia/Kolkata] PHP Warning:  Array to string conversion in H:\xampp\htdocs\unnatti\employee\dashboard.php on line 67
+[11-Nov-2026 13:04:18 Asia/Kolkata] PHP Warning:  Array to string conversion in H:\xampp\htdocs\unnatti\employee\dashboard.php on line 65
+[11-Nov-2026 13:04:18 Asia/Kolkata] PHP Warning:  Array to string conversion in H:\xampp\htdocs\unnatti\employee\dashboard.php on line 67
+[11-Nov-2026 13:04:19 Asia/Kolkata] PHP Warning:  Array to string conversion in H:\xampp\htdocs\unnatti\employee\dashboard.php on line 65
+[11-Nov-2026 13:04:19 Asia/Kolkata] PHP Warning:  Array to string conversion in H:\xampp\htdocs\unnatti\employee\dashboard.php on line 67
+[11-Nov-2026 13:04:21 Asia/Kolkata] PHP Warning:  Array to string conversion in H:\xampp\htdocs\unnatti\employee\dashboard.php on line 65
+[11-Nov-2026 13:04:21 Asia/Kolkata] PHP Warning:  Array to string conversion in H:\xampp\htdocs\unnatti\employee\dashboard.php on line 67
+[11-Nov-2026 13:04:22 Asia/Kolkata] PHP Warning:  Array to string conversion in H:\xampp\htdocs\unnatti\employee\dashboard.php on line 65
+[11-Nov-2026 13:04:22 Asia/Kolkata] PHP Warning:  Array to string conversion in H:\xampp\htdocs\unnatti\employee\dashboard.php on line 67
+[11-Nov-2026 13:04:36 Asia/Kolkata] PHP Warning:  Array to string conversion in H:\xampp\htdocs\unnatti\employee\dashboard.php on line 65
+[11-Nov-2026 13:04:36 Asia/Kolkata] PHP Warning:  Array to string conversion in H:\xampp\htdocs\unnatti\employee\dashboard.php on line 67
+[11-Nov-2026 13:05:07 Asia/Kolkata] PHP Warning:  Array to string conversion in H:\xampp\htdocs\unnatti\employee\dashboard.php on line 65
+[11-Nov-2026 13:05:07 Asia/Kolkata] PHP Warning:  Array to string conversion in H:\xampp\htdocs\unnatti\employee\dashboard.php on line 67
+[11-Nov-2026 13:05:55 Asia/Kolkata] PHP Warning:  Array to string conversion in H:\xampp\htdocs\unnatti\employee\dashboard.php on line 65
+[11-Nov-2026 13:05:55 Asia/Kolkata] PHP Warning:  Array to string conversion in H:\xampp\htdocs\unnatti\employee\dashboard.php on line 67
+[11-Nov-2026 13:06:03 Asia/Kolkata] PHP Warning:  Array to string conversion in H:\xampp\htdocs\unnatti\employee\dashboard.php on line 65
+[11-Nov-2026 13:06:03 Asia/Kolkata] PHP Warning:  Array to string conversion in H:\xampp\htdocs\unnatti\employee\dashboard.php on line 67
+[11-Nov-2026 13:06:13 Asia/Kolkata] PHP Warning:  Array to string conversion in H:\xampp\htdocs\unnatti\employee\dashboard.php on line 65
+[11-Nov-2026 13:06:13 Asia/Kolkata] PHP Warning:  Array to string conversion in H:\xampp\htdocs\unnatti\employee\dashboard.php on line 67
+[11-Nov-2026 13:07:07 Asia/Kolkata] PHP Warning:  Array to string conversion in H:\xampp\htdocs\unnatti\admin\dashboard.php on line 170
+[11-Nov-2026 13:13:13 Asia/Kolkata] PHP Warning:  Array to string conversion in H:\xampp\htdocs\unnatti\admin\dashboard.php on line 170
+[11-Nov-2026 13:13:19 Asia/Kolkata] PHP Warning:  Array to string conversion in H:\xampp\htdocs\unnatti\admin\dashboard.php on line 170
+[11-Nov-2026 13:13:22 Asia/Kolkata] PHP Warning:  Array to string conversion in H:\xampp\htdocs\unnatti\admin\dashboard.php on line 170
+[11-Nov-2026 13:13:25 Asia/Kolkata] PHP Warning:  Array to string conversion in H:\xampp\htdocs\unnatti\admin\dashboard.php on line 170
+[11-Nov-2026 13:14:55 Asia/Kolkata] PHP Warning:  Array to string conversion in H:\xampp\htdocs\unnatti\admin\dashboard.php on line 170
+[11-Nov-2026 13:19:16 Asia/Kolkata] PHP Warning:  Array to string conversion in H:\xampp\htdocs\unnatti\admin\dashboard.php on line 170
+[11-Nov-2026 13:31:17 Asia/Kolkata] PHP Warning:  Array to string conversion in H:\xampp\htdocs\unnatti\admin\dashboard.php on line 170
+[11-Nov-2026 13:51:15 Asia/Kolkata] Delete product error: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`mini_erp`.`stock_adjustments`, CONSTRAINT `stock_adjustments_ibfk_1` FOREIGN KEY (`variant_id`) REFERENCES `product_variants` (`id`))
+[11-Nov-2026 13:51:43 Asia/Kolkata] Delete product error: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`mini_erp`.`stock_adjustments`, CONSTRAINT `stock_adjustments_ibfk_1` FOREIGN KEY (`variant_id`) REFERENCES `product_variants` (`id`))
+[11-Nov-2026 13:58:41 Asia/Kolkata] PHP Warning:  Array to string conversion in H:\xampp\htdocs\unnatti\admin\dashboard.php on line 170
+[11-Nov-2026 14:00:27 Asia/Kolkata] PHP Warning:  Array to string conversion in H:\xampp\htdocs\unnatti\admin\dashboard.php on line 170
+[11-Nov-2026 14:14:03 Asia/Kolkata] PHP Warning:  Array to string conversion in H:\xampp\htdocs\unnatti\admin\dashboard.php on line 170
+[11-Nov-2026 14:37:02 Asia/Kolkata] PHP Warning:  Array to string conversion in H:\xampp\htdocs\unnatti\admin\dashboard.php on line 170
+[11-Nov-2026 14:40:39 Asia/Kolkata] PHP Warning:  Array to string conversion in H:\xampp\htdocs\unnatti\admin\dashboard.php on line 170
+[11-Nov-2026 14:45:09 Asia/Kolkata] PHP Warning:  Array to string conversion in H:\xampp\htdocs\unnatti\admin\dashboard.php on line 170
+[11-Nov-2026 14:45:15 Asia/Kolkata] PHP Warning:  Array to string conversion in H:\xampp\htdocs\unnatti\admin\dashboard.php on line 170
+[11-Nov-2026 14:59:43 Asia/Kolkata] PHP Warning:  Array to string conversion in H:\xampp\htdocs\unnatti\admin\dashboard.php on line 170
+[11-Nov-2026 19:15:26 Asia/Kolkata] PHP Warning:  Array to string conversion in H:\xampp\htdocs\unnatti\admin\dashboard.php on line 170
+[11-Nov-2026 19:15:41 Asia/Kolkata] PHP Warning:  Array to string conversion in H:\xampp\htdocs\unnatti\admin\dashboard.php on line 170
+[11-Nov-2026 19:16:53 Asia/Kolkata] PHP Warning:  Array to string conversion in H:\xampp\htdocs\unnatti\admin\dashboard.php on line 170
+[11-Nov-2026 19:17:01 Asia/Kolkata] PHP Warning:  Array to string conversion in H:\xampp\htdocs\unnatti\admin\dashboard.php on line 170
+[11-Nov-2026 19:17:02 Asia/Kolkata] PHP Warning:  Array to string conversion in H:\xampp\htdocs\unnatti\admin\dashboard.php on line 170
+[11-Nov-2026 19:29:36 Asia/Kolkata] PHP Warning:  Array to string conversion in H:\xampp\htdocs\unnatti\admin\dashboard.php on line 170
+[11-Nov-2026 19:30:39 Asia/Kolkata] PHP Warning:  Array to string conversion in H:\xampp\htdocs\unnatti\admin\dashboard.php on line 170
+[11-Nov-2026 19:31:47 Asia/Kolkata] PHP Warning:  Array to string conversion in H:\xampp\htdocs\unnatti\admin\dashboard.php on line 170
+[11-Nov-2026 19:31:50 Asia/Kolkata] PHP Warning:  Array to string conversion in H:\xampp\htdocs\unnatti\admin\dashboard.php on line 170
+[11-Nov-2026 19:32:33 Asia/Kolkata] PHP Warning:  Array to string conversion in H:\xampp\htdocs\unnatti\admin\dashboard.php on line 170
+[11-Nov-2026 19:34:59 Asia/Kolkata] PHP Warning:  Array to string conversion in H:\xampp\htdocs\unnatti\admin\dashboard.php on line 170
+[11-Nov-2026 19:41:42 Asia/Kolkata] PHP Warning:  Array to string conversion in H:\xampp\htdocs\unnatti\admin\dashboard.php on line 170
+[11-Nov-2026 20:05:15 Asia/Kolkata] PHP Warning:  session_start(): open(\xampp\tmp\sess_26962203145bf7311dc9bd5f2636080e, O_RDWR) failed: Permission denied (13) in H:\xampp\htdocs\unnatti\config\config.php on line 58
+[11-Nov-2026 20:05:15 Asia/Kolkata] PHP Warning:  session_start(): Failed to read session data: files (path: \xampp\tmp) in H:\xampp\htdocs\unnatti\config\config.php on line 58
+[11-Nov-2026 20:05:45 Asia/Kolkata] DB Connection Error: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[12-Nov-2026 01:04:55 Asia/Kolkata] PHP Warning:  Array to string conversion in H:\xampp\htdocs\unnatti\admin\dashboard.php on line 170
+[12-Nov-2026 01:07:56 Asia/Kolkata] PHP Warning:  Array to string conversion in H:\xampp\htdocs\unnatti\admin\dashboard.php on line 170
+[12-Nov-2026 01:20:07 Asia/Kolkata] PHP Warning:  session_start(): open(\xampp\tmp\sess_aeac99980b6cbcc62a0786df765f5a2d, O_RDWR) failed: Permission denied (13) in H:\xampp\htdocs\unnatti\config\config.php on line 58
+[12-Nov-2026 01:20:07 Asia/Kolkata] PHP Warning:  session_start(): Failed to read session data: files (path: \xampp\tmp) in H:\xampp\htdocs\unnatti\config\config.php on line 58
+[12-Nov-2026 01:21:19 Asia/Kolkata] PHP Warning:  session_start(): open(\xampp\tmp\sess_fb707c9faa4fe6b6fda75b8ddb410fcc, O_RDWR) failed: Permission denied (13) in H:\xampp\htdocs\unnatti\config\config.php on line 58
+[12-Nov-2026 01:21:19 Asia/Kolkata] PHP Warning:  session_start(): Failed to read session data: files (path: \xampp\tmp) in H:\xampp\htdocs\unnatti\config\config.php on line 58
+[12-Nov-2026 01:21:44 Asia/Kolkata] PHP Warning:  Array to string conversion in H:\xampp\htdocs\unnatti\admin\dashboard.php on line 170
+[12-Nov-2026 01:21:49 Asia/Kolkata] DB Connection Error: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[12-Nov-2026 12:15:00 Asia/Kolkata] PHP Warning:  Array to string conversion in H:\xampp\htdocs\unnatti\admin\dashboard.php on line 170
+[12-Nov-2026 13:06:54 Asia/Kolkata] PHP Warning:  Array to string conversion in H:\xampp\htdocs\unnatti\admin\dashboard.php on line 170
+[12-Nov-2026 13:06:55 Asia/Kolkata] PHP Warning:  Array to string conversion in H:\xampp\htdocs\unnatti\admin\dashboard.php on line 170
+[12-Nov-2026 13:08:45 Asia/Kolkata] PHP Warning:  Undefined array key "pages" in H:\xampp\htdocs\unnatti\admin\purchases\materials.php on line 222
+[12-Nov-2026 13:08:53 Asia/Kolkata] PHP Warning:  Undefined array key "pages" in H:\xampp\htdocs\unnatti\admin\purchases\materials.php on line 222
+[12-Nov-2026 13:55:39 Asia/Kolkata] PHP Warning:  Array to string conversion in H:\xampp\htdocs\unnatti\admin\dashboard.php on line 170
+[15-Nov-2026 21:01:17 Asia/Kolkata] PHP Warning:  Undefined array key "pages" in H:\xampp\htdocs\unnatti\admin\purchases\materials.php on line 223
+[15-Nov-2026 21:01:21 Asia/Kolkata] PHP Warning:  Undefined array key "pages" in H:\xampp\htdocs\unnatti\admin\purchases\materials.php on line 223
+[15-Nov-2026 21:01:22 Asia/Kolkata] PHP Warning:  Undefined array key "pages" in H:\xampp\htdocs\unnatti\admin\purchases\materials.php on line 223
+[17-Nov-2026 11:29:51 Asia/Kolkata] Activity log error: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`mini_erp`.`activity_logs`, CONSTRAINT `activity_logs_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`) ON DELETE SET NULL)
+[17-Nov-2026 11:43:47 Asia/Kolkata] PHP Warning:  session_start(): open(\xampp\tmp\sess_593233420c1fc718fe14af65245d7c72, O_RDWR) failed: Permission denied (13) in H:\xampp\htdocs\unnatti\config\config.php on line 58
+[17-Nov-2026 11:43:47 Asia/Kolkata] PHP Warning:  session_start(): Failed to read session data: files (path: \xampp\tmp) in H:\xampp\htdocs\unnatti\config\config.php on line 58
+[17-Nov-2026 11:43:47 Asia/Kolkata] DB Connection Error: SQLSTATE[HY000] [2002] An attempt was made to access a socket in a way forbidden by its access permissions
+[17-Nov-2026 11:53:06 Asia/Kolkata] PHP Warning:  Undefined array key "pages" in H:\xampp\htdocs\unnatti\admin\purchases\materials.php on line 223
+[17-Nov-2026 11:53:12 Asia/Kolkata] PHP Warning:  Undefined array key "pages" in H:\xampp\htdocs\unnatti\admin\purchases\materials.php on line 223
+[17-Nov-2026 11:55:19 Asia/Kolkata] PHP Warning:  Undefined array key "pages" in H:\xampp\htdocs\unnatti\admin\purchases\materials.php on line 223
+[17-Nov-2026 11:59:02 Asia/Kolkata] PHP Warning:  Undefined array key "pages" in H:\xampp\htdocs\unnatti\admin\purchases\materials.php on line 223
+[17-Nov-2026 11:59:09 Asia/Kolkata] PHP Warning:  Undefined array key "pages" in H:\xampp\htdocs\unnatti\admin\purchases\materials.php on line 223
+[17-Nov-2026 11:59:13 Asia/Kolkata] PHP Warning:  Undefined array key "pages" in H:\xampp\htdocs\unnatti\admin\purchases\materials.php on line 223
+[17-Nov-2026 11:59:29 Asia/Kolkata] PHP Warning:  Undefined array key "pages" in H:\xampp\htdocs\unnatti\admin\purchases\materials.php on line 223
+[17-Nov-2026 12:05:50 Asia/Kolkata] PHP Warning:  Undefined array key "pages" in H:\xampp\htdocs\unnatti\admin\purchases\materials.php on line 223
+[17-Nov-2026 12:06:55 Asia/Kolkata] PHP Warning:  Undefined array key "pages" in H:\xampp\htdocs\unnatti\admin\purchases\materials.php on line 223
+[17-Nov-2026 12:06:59 Asia/Kolkata] PHP Warning:  Undefined array key "pages" in H:\xampp\htdocs\unnatti\admin\purchases\materials.php on line 223
+[17-Nov-2026 12:09:52 Asia/Kolkata] PHP Warning:  Undefined array key "pages" in H:\xampp\htdocs\unnatti\admin\purchases\materials.php on line 223
+[17-Nov-2026 12:41:20 Asia/Kolkata] PHP Warning:  session_start(): open(\xampp\tmp\sess_96d8b504bfdb0e90c473144caa907745, O_RDWR) failed: Permission denied (13) in H:\xampp\htdocs\unnatti\config\config.php on line 58
+[17-Nov-2026 12:41:20 Asia/Kolkata] PHP Warning:  session_start(): Failed to read session data: files (path: \xampp\tmp) in H:\xampp\htdocs\unnatti\config\config.php on line 58
+[17-Nov-2026 12:41:20 Asia/Kolkata] DB Connection Error: SQLSTATE[HY000] [2002] An attempt was made to access a socket in a way forbidden by its access permissions
+[17-Nov-2026 12:47:28 Asia/Kolkata] PHP Warning:  Undefined array key "pages" in H:\xampp\htdocs\unnatti\admin\purchases\materials.php on line 227
+[17-Nov-2026 12:52:25 Asia/Kolkata] PHP Warning:  Undefined array key "pages" in H:\xampp\htdocs\unnatti\admin\purchases\materials.php on line 227
+[17-Nov-2026 12:52:42 Asia/Kolkata] PHP Warning:  Undefined array key "pages" in H:\xampp\htdocs\unnatti\admin\purchases\materials.php on line 227
+[17-Nov-2026 12:52:45 Asia/Kolkata] PHP Warning:  Undefined array key "pages" in H:\xampp\htdocs\unnatti\admin\purchases\materials.php on line 227
+[17-Nov-2026 12:52:47 Asia/Kolkata] PHP Warning:  Undefined array key "pages" in H:\xampp\htdocs\unnatti\admin\purchases\materials.php on line 227
+[17-Nov-2026 12:52:48 Asia/Kolkata] PHP Warning:  Undefined array key "pages" in H:\xampp\htdocs\unnatti\admin\purchases\materials.php on line 227
+[17-Nov-2026 12:52:50 Asia/Kolkata] PHP Warning:  Undefined array key "pages" in H:\xampp\htdocs\unnatti\admin\purchases\materials.php on line 227
+[17-Nov-2026 12:53:07 Asia/Kolkata] PHP Warning:  Undefined array key "pages" in H:\xampp\htdocs\unnatti\admin\purchases\materials.php on line 227
+[17-Nov-2026 12:57:12 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'type' in 'SELECT' in H:\xampp\htdocs\unnatti\config\database.php:46
+Stack trace:
+#0 H:\xampp\htdocs\unnatti\config\database.php(46): PDO->prepare('SELECT id, vari...')
+#1 H:\xampp\htdocs\unnatti\config\database.php(58): Database->query('SELECT id, vari...', Array)
+#2 C:\Users\MOHAMMED\.gemini\antigravity\brain\f2deede5-603b-481a-b06a-7c1a56e72df1\scratch\check_db.php(17): Database->fetchAll('SELECT id, vari...')
+#3 {main}
+  thrown in H:\xampp\htdocs\unnatti\config\database.php on line 46
+[17-Nov-2026 12:58:34 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'total_amount' in 'SELECT' in H:\xampp\htdocs\unnatti\config\database.php:46
+Stack trace:
+#0 H:\xampp\htdocs\unnatti\config\database.php(46): PDO->prepare('SELECT id, invo...')
+#1 H:\xampp\htdocs\unnatti\config\database.php(58): Database->query('SELECT id, invo...', Array)
+#2 C:\Users\MOHAMMED\.gemini\antigravity\brain\f2deede5-603b-481a-b06a-7c1a56e72df1\scratch\check_transactions.php(3): Database->fetchAll('SELECT id, invo...')
+#3 {main}
+  thrown in H:\xampp\htdocs\unnatti\config\database.php on line 46
+[17-Nov-2026 12:58:43 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'total_amount' in 'SELECT' in H:\xampp\htdocs\unnatti\config\database.php:46
+Stack trace:
+#0 H:\xampp\htdocs\unnatti\config\database.php(46): PDO->prepare('SELECT id, invo...')
+#1 H:\xampp\htdocs\unnatti\config\database.php(58): Database->query('SELECT id, invo...', Array)
+#2 C:\Users\MOHAMMED\.gemini\antigravity\brain\f2deede5-603b-481a-b06a-7c1a56e72df1\scratch\check_transactions.php(3): Database->fetchAll('SELECT id, invo...')
+#3 {main}
+  thrown in H:\xampp\htdocs\unnatti\config\database.php on line 46
+[17-Nov-2026 13:01:16 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'type' in 'SELECT' in H:\xampp\htdocs\unnatti\config\database.php:46
+Stack trace:
+#0 H:\xampp\htdocs\unnatti\config\database.php(46): PDO->prepare('SELECT id, vari...')
+#1 H:\xampp\htdocs\unnatti\config\database.php(58): Database->query('SELECT id, vari...', Array)
+#2 C:\Users\MOHAMMED\.gemini\antigravity\brain\f2deede5-603b-481a-b06a-7c1a56e72df1\scratch\check_db.php(17): Database->fetchAll('SELECT id, vari...')
+#3 {main}
+  thrown in H:\xampp\htdocs\unnatti\config\database.php on line 46
+[17-Nov-2026 13:02:27 Asia/Kolkata] PHP Warning:  Undefined array key "pages" in H:\xampp\htdocs\unnatti\admin\purchases\materials.php on line 227
+[17-Nov-2026 13:02:34 Asia/Kolkata] PHP Warning:  Undefined array key "pages" in H:\xampp\htdocs\unnatti\admin\purchases\materials.php on line 227
+[17-Nov-2026 13:02:43 Asia/Kolkata] PHP Warning:  Undefined array key "pages" in H:\xampp\htdocs\unnatti\admin\purchases\materials.php on line 227
+[17-Nov-2026 13:02:52 Asia/Kolkata] PHP Warning:  Undefined array key "pages" in H:\xampp\htdocs\unnatti\admin\purchases\materials.php on line 227
+[17-Nov-2026 13:02:58 Asia/Kolkata] PHP Warning:  Undefined array key "pages" in H:\xampp\htdocs\unnatti\admin\purchases\materials.php on line 227
+[17-Nov-2026 13:03:04 Asia/Kolkata] PHP Warning:  Undefined array key "pages" in H:\xampp\htdocs\unnatti\admin\purchases\materials.php on line 227
+[17-Nov-2026 13:03:05 Asia/Kolkata] PHP Warning:  Undefined array key "pages" in H:\xampp\htdocs\unnatti\admin\purchases\materials.php on line 227
+[17-Nov-2026 13:03:06 Asia/Kolkata] PHP Warning:  Undefined array key "pages" in H:\xampp\htdocs\unnatti\admin\purchases\materials.php on line 227
+[17-Nov-2026 13:03:24 Asia/Kolkata] PHP Warning:  Undefined array key "pages" in H:\xampp\htdocs\unnatti\admin\purchases\materials.php on line 227
+[17-Nov-2026 13:03:28 Asia/Kolkata] PHP Warning:  Undefined array key "pages" in H:\xampp\htdocs\unnatti\admin\purchases\materials.php on line 227
+[17-Nov-2026 13:03:29 Asia/Kolkata] PHP Warning:  Undefined array key "pages" in H:\xampp\htdocs\unnatti\admin\purchases\materials.php on line 227
+[17-Nov-2026 13:03:37 Asia/Kolkata] PHP Warning:  Undefined array key "pages" in H:\xampp\htdocs\unnatti\admin\purchases\materials.php on line 227
+[17-Nov-2026 13:03:50 Asia/Kolkata] PHP Warning:  Undefined array key "pages" in H:\xampp\htdocs\unnatti\admin\purchases\materials.php on line 227
+[17-Nov-2026 13:05:17 Asia/Kolkata] PHP Warning:  Undefined array key "pages" in H:\xampp\htdocs\unnatti\admin\purchases\materials.php on line 227
+[17-Nov-2026 13:05:28 Asia/Kolkata] PHP Warning:  Undefined array key "pages" in H:\xampp\htdocs\unnatti\admin\purchases\materials.php on line 227
+[17-Nov-2026 13:05:29 Asia/Kolkata] PHP Warning:  Undefined array key "pages" in H:\xampp\htdocs\unnatti\admin\purchases\materials.php on line 227
+[17-Nov-2026 13:05:29 Asia/Kolkata] PHP Warning:  Undefined array key "pages" in H:\xampp\htdocs\unnatti\admin\purchases\materials.php on line 227
+[17-Nov-2026 13:06:50 Asia/Kolkata] PHP Warning:  Undefined array key "pages" in H:\xampp\htdocs\unnatti\admin\purchases\materials.php on line 227
+[17-Nov-2026 13:19:05 Asia/Kolkata] PHP Warning:  Undefined array key "pages" in H:\xampp\htdocs\unnatti\admin\purchases\materials.php on line 390
+[17-Nov-2026 13:19:31 Asia/Kolkata] PHP Warning:  Undefined array key "pages" in H:\xampp\htdocs\unnatti\admin\purchases\materials.php on line 390
+[17-Nov-2026 13:19:57 Asia/Kolkata] PHP Warning:  Undefined array key "pages" in H:\xampp\htdocs\unnatti\admin\purchases\materials.php on line 390
+[17-Nov-2026 13:22:04 Asia/Kolkata] PHP Warning:  Undefined array key "pages" in H:\xampp\htdocs\unnatti\admin\purchases\materials.php on line 390
+[17-Nov-2026 13:22:28 Asia/Kolkata] PHP Warning:  Undefined array key "pages" in H:\xampp\htdocs\unnatti\admin\purchases\materials.php on line 390
+[17-Nov-2026 13:23:07 Asia/Kolkata] PHP Warning:  Undefined array key "pages" in H:\xampp\htdocs\unnatti\admin\purchases\materials.php on line 390
+[17-Nov-2026 13:25:39 Asia/Kolkata] PHP Warning:  Undefined array key "pages" in H:\xampp\htdocs\unnatti\admin\purchases\materials.php on line 390
+[17-Nov-2026 13:25:48 Asia/Kolkata] PHP Warning:  Undefined array key "pages" in H:\xampp\htdocs\unnatti\admin\purchases\materials.php on line 390
+[17-Nov-2026 13:26:04 Asia/Kolkata] PHP Warning:  Undefined array key "pages" in H:\xampp\htdocs\unnatti\admin\purchases\materials.php on line 390
+[17-Nov-2026 13:32:17 Asia/Kolkata] PHP Warning:  Undefined array key "pages" in H:\xampp\htdocs\unnatti\admin\purchases\materials.php on line 390
+[17-Nov-2026 13:32:32 Asia/Kolkata] PHP Warning:  Undefined array key "pages" in H:\xampp\htdocs\unnatti\admin\purchases\materials.php on line 390
+[17-Nov-2026 13:33:18 Asia/Kolkata] PHP Warning:  Undefined array key "pages" in H:\xampp\htdocs\unnatti\admin\purchases\materials.php on line 390
+[17-Nov-2026 13:35:38 Asia/Kolkata] PHP Warning:  Undefined array key "pages" in H:\xampp\htdocs\unnatti\admin\purchases\materials.php on line 390
+[17-Nov-2026 13:35:40 Asia/Kolkata] PHP Warning:  Undefined array key "pages" in H:\xampp\htdocs\unnatti\admin\purchases\materials.php on line 390
+[17-Nov-2026 13:35:54 Asia/Kolkata] PHP Warning:  Undefined array key "pages" in H:\xampp\htdocs\unnatti\admin\purchases\materials.php on line 390
+[17-Nov-2026 13:48:39 Asia/Kolkata] PHP Warning:  Undefined array key "pages" in H:\xampp\htdocs\unnatti\admin\purchases\materials.php on line 390
