@@ -17,6 +17,9 @@ function isEmpNavActive(string $path, string $current): string {
             <h4 class="brand-name"><?= e($businessName) ?></h4>
             <span class="brand-tagline">Employee Portal</span>
         </div>
+        <button type="button" class="sidebar-close-btn" onclick="closeSidebar(); event.stopPropagation();" aria-label="Close Sidebar" title="Close Sidebar">
+            <i class="fas fa-times"></i>
+        </button>
     </div>
     <div class="sidebar-nav">
         <ul class="sidebar-menu">

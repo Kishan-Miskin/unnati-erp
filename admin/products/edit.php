@@ -187,7 +187,7 @@ include dirname(dirname(__DIR__)) . '/includes/header.php';
             <span class="badge badge-<?= $margin>=20?'success':($margin>=10?'warning':'danger') ?>"><?= $margin ?>% margin</span>
           </div>
           <div class="form-row cols-2" style="margin-bottom:10px">
-            <div class="form-group mb-0"><label class="form-label text-xs">Unit / Measurement</label><input type="text" name="variants[<?= $v['id'] ?>][size]" class="form-control" value="<?= e($v['size']) ?>" placeholder="e.g. Meter, Piece, Roll"></div>
+            <div class="form-group mb-0"><label class="form-label text-xs">Size</label><input type="text" name="variants[<?= $v['id'] ?>][size]" class="form-control" value="<?= e($v['size']) ?>" placeholder="e.g. Standard, M, L, XL, 38"></div>
             <div class="form-group mb-0"><label class="form-label text-xs">Status</label>
               <select name="variants[<?= $v['id'] ?>][status]" class="form-select">
                 <option value="active" <?= $v['status']==='active'?'selected':'' ?>>Active</option>

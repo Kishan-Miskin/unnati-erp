@@ -211,3 +211,42 @@ Stack trace:
 [17-Nov-2026 13:35:40 Asia/Kolkata] PHP Warning:  Undefined array key "pages" in H:\xampp\htdocs\unnatti\admin\purchases\materials.php on line 390
 [17-Nov-2026 13:35:54 Asia/Kolkata] PHP Warning:  Undefined array key "pages" in H:\xampp\htdocs\unnatti\admin\purchases\materials.php on line 390
 [17-Nov-2026 13:48:39 Asia/Kolkata] PHP Warning:  Undefined array key "pages" in H:\xampp\htdocs\unnatti\admin\purchases\materials.php on line 390
+[18-Nov-2026 13:09:55 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant PDO::MYSQL_ATTR_INIT_COMMAND in D:\unnatti\config\database.php:23
+Stack trace:
+#0 D:\unnatti\config\database.php(35): Database->__construct()
+#1 D:\unnatti\config\database.php(93): Database::getInstance()
+#2 D:\unnatti\config\config.php(65): db()
+#3 D:\unnatti\login.php(51): getSetting('business_name', 'Unnatti Enterpr...')
+#4 {main}
+  thrown in D:\unnatti\config\database.php on line 23
+[18-Nov-2026 13:13:14 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'p.garment_category' in 'field list' in D:\unnatti\config\database.php:46
+Stack trace:
+#0 D:\unnatti\config\database.php(46): PDO->prepare('SELECT pv.id, p...')
+#1 D:\unnatti\config\database.php(58): Database->query('SELECT pv.id, p...', Array)
+#2 D:\unnatti\admin\purchases\materials.php(40): Database->fetchAll('SELECT pv.id, p...', Array)
+#3 {main}
+  thrown in D:\unnatti\config\database.php on line 46
+[18-Nov-2026 13:13:16 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'p.garment_category' in 'field list' in D:\unnatti\config\database.php:46
+Stack trace:
+#0 D:\unnatti\config\database.php(46): PDO->prepare('SELECT pv.id, p...')
+#1 D:\unnatti\config\database.php(58): Database->query('SELECT pv.id, p...', Array)
+#2 D:\unnatti\admin\purchases\materials.php(40): Database->fetchAll('SELECT pv.id, p...', Array)
+#3 {main}
+  thrown in D:\unnatti\config\database.php on line 46
+[18-Nov-2026 13:13:20 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'p.garment_category' in 'field list' in D:\unnatti\config\database.php:46
+Stack trace:
+#0 D:\unnatti\config\database.php(46): PDO->prepare('SELECT pv.id, p...')
+#1 D:\unnatti\config\database.php(58): Database->query('SELECT pv.id, p...', Array)
+#2 D:\unnatti\admin\purchases\materials.php(40): Database->fetchAll('SELECT pv.id, p...', Array)
+#3 {main}
+  thrown in D:\unnatti\config\database.php on line 46
+[18-Nov-2026 13:13:45 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'p.garment_category' in 'field list' in D:\unnatti\config\database.php:46
+Stack trace:
+#0 D:\unnatti\config\database.php(46): PDO->prepare('SELECT pv.id, p...')
+#1 D:\unnatti\config\database.php(58): Database->query('SELECT pv.id, p...', Array)
+#2 D:\unnatti\admin\purchases\materials.php(40): Database->fetchAll('SELECT pv.id, p...', Array)
+#3 {main}
+  thrown in D:\unnatti\config\database.php on line 46
+[18-Nov-2026 13:17:36 Asia/Kolkata] PHP Warning:  Undefined array key "pages" in D:\unnatti\admin\purchases\materials.php on line 390
+[18-Nov-2026 13:18:12 Asia/Kolkata] PHP Warning:  Undefined array key "pages" in D:\unnatti\admin\purchases\materials.php on line 390
+[18-Nov-2026 13:30:01 Asia/Kolkata] PHP Warning:  Undefined array key "pages" in D:\unnatti\admin\purchases\materials.php on line 390

@@ -35,7 +35,7 @@ $activePage   = $activePage ?? '';
     <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
 
     <!-- App CSS -->
-    <link rel="stylesheet" href="<?= APP_URL ?>/assets/css/style.css">
+    <link rel="stylesheet" href="<?= APP_URL ?>/assets/css/style.css?v=<?= file_exists(APP_ROOT . '/assets/css/style.css') ? filemtime(APP_ROOT . '/assets/css/style.css') : '2' ?>">
 
     <?php if (isset($extraCss)) echo $extraCss; ?>
 </head>

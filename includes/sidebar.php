@@ -39,6 +39,9 @@ function isNavActive(string $path, string $current): string {
         <div class="brand-arrow">
             <i class="fas fa-chevron-down"></i>
         </div>
+        <button type="button" class="sidebar-close-btn" onclick="closeSidebar(); event.stopPropagation();" aria-label="Close Sidebar" title="Close Sidebar">
+            <i class="fas fa-times"></i>
+        </button>
     </div>
 
     <!-- Dropdown Popup Menu -->

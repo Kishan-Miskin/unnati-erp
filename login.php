@@ -65,12 +65,15 @@ $businessTagline = getSetting('business_tagline', 'Quality Products, Trusted Ser
   body {
     font-family: 'Poppins', sans-serif;
     min-height: 100vh;
-    overflow: hidden;
+    min-height: 100dvh;
+    overflow-y: auto;
+    overflow-x: hidden;
     background: #0f172a;
     display: flex;
     align-items: center;
     justify-content: center;
     position: relative;
+    padding: 24px 12px;
   }
 
   canvas#bg { position: fixed; inset: 0; z-index: 0; }
@@ -235,6 +238,50 @@ $businessTagline = getSetting('business_tagline', 'Quality Products, Trusted Ser
     margin-top: 24px;
     font-size: 0.72rem;
     color: rgba(255,255,255,0.2);
+  }
+
+  @media (max-width: 480px) {
+    .login-container {
+      padding: 0;
+      max-width: 100%;
+    }
+    .login-card {
+      padding: 28px 20px;
+      border-radius: 18px;
+    }
+    .brand-icon-wrap {
+      width: 56px;
+      height: 56px;
+      font-size: 1.5rem;
+      margin-bottom: 12px;
+    }
+    .brand-name {
+      font-size: 1.15rem;
+    }
+    .brand-area {
+      margin-bottom: 24px;
+    }
+    .login-title {
+      font-size: 0.82rem;
+      margin-bottom: 20px;
+    }
+    .btn-login {
+      padding: 12px;
+      font-size: 0.9rem;
+    }
+  }
+
+  @media (max-height: 650px) {
+    body {
+      align-items: flex-start;
+      padding: 20px 12px;
+    }
+    .brand-area {
+      margin-bottom: 16px;
+    }
+    .login-card {
+      padding: 24px 20px;
+    }
   }
 </style>
 </head>

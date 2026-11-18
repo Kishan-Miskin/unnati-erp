@@ -169,6 +169,7 @@ document.addEventListener('click', function(e) {
 // Close modal on Escape
 document.addEventListener('keydown', function(e) {
   if (e.key === 'Escape') {
+    closeSidebar();
     document.querySelectorAll('.modal-overlay.active').forEach(function(m) {
       m.classList.remove('active');
       document.body.style.overflow = '';

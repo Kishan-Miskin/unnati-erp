@@ -340,30 +340,20 @@ function addVariantRow(data) {
         <small class="text-muted">Generated automatically from category, subcategory and size.</small>
       </div>
       <div class="form-group mb-0">
-        <label class="form-label text-xs">Unit / Measurement <span class="required">*</span></label>
+        <label class="form-label text-xs">Size <span class="required">*</span></label>
         <select name="variants[${idx}][size]" id="variant-size-${idx}" class="form-select"
                 onchange="toggleCustomSize(${idx}); updateSkuPreviews()" required>
-          <optgroup label="Boutique Units (Fabrics, Trims & Accessories)">
-            <option value="Meter" selected>Meter (Per Meter)</option>
-            <option value="Roll">Roll (Fabric bolt / Fusing)</option>
-            <option value="Piece">Piece (Pcs)</option>
-            <option value="Yard">Yard</option>
-            <option value="Pair">Pair (Pads / Cups)</option>
-            <option value="Packet">Packet (Buttons / Hooks)</option>
-          </optgroup>
-          <optgroup label="Garment Sizes (Ready Outfits)">
-            <option value="Standard">Standard</option>
-            <option value="Small">Small (S)</option>
-            <option value="Medium">Medium (M)</option>
-            <option value="Large">Large (L)</option>
-            <option value="X-Large">X-Large (XL)</option>
-            <option value="XX-Large">XX-Large (XXL)</option>
-            <option value="Free Size">Free Size</option>
-          </optgroup>
-          <option value="Custom">Other / Custom unit...</option>
+          <option value="Standard" selected>Standard</option>
+          <option value="Small">Small (S)</option>
+          <option value="Medium">Medium (M)</option>
+          <option value="Large">Large (L)</option>
+          <option value="X-Large">X-Large (XL)</option>
+          <option value="XX-Large">XX-Large (XXL)</option>
+          <option value="Free Size">Free Size</option>
+          <option value="Custom">Other / Custom size...</option>
         </select>
         <input type="text" name="variants[${idx}][custom_size]" id="custom-size-${idx}"
-               class="form-control mt-2" placeholder="Enter custom unit, e.g. 2.5m Cut, Dozen, 100m Than"
+               class="form-control mt-2" placeholder="Enter custom size, e.g. 38, 40, 42, XS, Plus Size"
                style="display:none" maxlength="40">
       </div>
     </div>
